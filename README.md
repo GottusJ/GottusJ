@@ -1,10 +1,8 @@
 [![MasterHead](https://github.com/GottusJ/GottusJ/blob/main/banner.png)](https://github.com/GottusJ/GottusJ)
 
-<div align=center>
- <img src="https://badges.pufler.dev/visits/GottusJ/GottusJ"/> 
- <img src="https://badges.pufler.dev/repos/GottusJ"/>
- <img src="https://badges.pufler.dev/commits/monthly/GottusJ" />
-</div>
+![](https://komarev.com/ghpvc/?username=GottusJ&color=blue)
+
+
 <div align=center>
 
  <h2 align="center">About Me</h2>
@@ -22,4 +20,8 @@
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GottusJ&theme=gotham">
 </p>
