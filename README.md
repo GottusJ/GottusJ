@@ -1,7 +1,11 @@
 [![MasterHead](https://github.com/GottusJ/GottusJ/blob/main/banner.png)](https://github.com/GottusJ/GottusJ)
 
-![](https://komarev.com/ghpvc/?username=GottusJ&color=blue)
 
+<p align="center">
+ <img src="https://badges.pufler.dev/visits/GottusJ/GottusJ"/> 
+ <img src="https://badges.pufler.dev/repos/GottusJ"/>
+ <img src="https://badges.pufler.dev/commits/monthly/GottusJ" />
+</p>
 
 <div align=center>
 
@@ -10,9 +14,15 @@
 👋 Hi, I am a Python enthusiast who is currently diving into the world of SQL. I have a passion for programming and love exploring new technologies. Python has been my language of choice, and I enjoy creating applications and solving problems with it. Lately, I've been eager to expand my skills and knowledge in database management, which is why I'm currently focusing on learning SQL. If you'd like to get in touch, feel free to reach me at joshua.gottus@proton.me.
 </div>
 
+<div align="center">
 <a href="https://codepen.io/GottusJ">
- <img src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black"/>
+ <img src="https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=blue"/>
 </a>
+
+<a href="https://bio.link/GottusJ">
+ <img src="https://img.shields.io/badge/bio-link-informational?style=flat&logo=codepen&logoColor=white&color=blue"/>
+</a>
+</div>
 
 <br />
 
@@ -29,5 +39,5 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GottusJ&theme=gotham">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GottusJ&theme=gotham&hide_border=true">
 </p>
