@@ -1,11 +1,11 @@
 [![MasterHead](https://github.com/GottusJ/GottusJ/blob/main/banner.png)](https://github.com/GottusJ/GottusJ)
 
 
-<p align="center">
+<!--- <p align="center"> 
  <img src="https://badges.pufler.dev/visits/GottusJ/GottusJ"/> 
  <img src="https://badges.pufler.dev/repos/GottusJ"/>
  <img src="https://badges.pufler.dev/commits/monthly/GottusJ" />
-</p>
+</p> -->
 
 <br />
 
