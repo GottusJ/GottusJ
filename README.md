@@ -7,6 +7,8 @@
  <img src="https://badges.pufler.dev/commits/monthly/GottusJ" />
 </p>
 
+<br />
+
 <div align=center>
 
  <h2 align="center">About Me</h2>
@@ -37,6 +39,8 @@
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
+
+<br />
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GottusJ&theme=gotham&hide_border=true">
